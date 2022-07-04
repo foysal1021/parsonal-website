@@ -58,3 +58,44 @@ section {
     background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
 }
+
+
+section.dream-big {
+    display: flex;
+    padding: 10% 5%;
+}
+
+.dream-big-left {
+    width: 50%;
+    text-align: left;
+}
+
+.dream-big-right {
+    width: 50%;
+}
+
+.dream-big-left img {
+    width: 72%;
+    border-radius: 100%;
+    height: 90%;
+}
+
+.dream-big-right h1 {
+    font-size: 50px;
+    margin: 0;
+    color: tomato;
+}
+
+.dream-big-right h4 {
+    font-size: 30px;
+    margin: 0;
+}
+
+.dream-big-right a {
+    text-decoration: none;
+    background: tomato;
+    padding: 12px 70px;
+    font-size: 30px;
+    border-radius: 10px;
+    color: white;
+}
