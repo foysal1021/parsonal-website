@@ -21,3 +21,32 @@ h3.skill {
     text-transform: capitalize;
     font-size: 25px;
 }
+
+a.hire-link {
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    background: tomato;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+section {
+    display: flex;
+    padding: 0% 5%;
+}
+
+.header-half1 {
+    width: 50%;
+}
+
+.header-half2 {
+    width: 50%;
+    text-align: center;
+}
+
+.header-half2 img {
+    width: 70%;
+    border-radius: 100%;
+}
