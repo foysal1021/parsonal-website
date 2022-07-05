@@ -157,3 +157,9 @@ h1.exprience-title {
     margin-left: 5%;
     text-transform: capitalize;
 }
+
+p.copywrite {
+    margin-left: 5%;
+    text-align: center;
+    font-size: 22px;
+}
