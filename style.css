@@ -114,7 +114,12 @@ p.about-me {
 .exprience-container {
     display: flex;
     margin-bottom: 5%;
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
+
+.exprience {}
 
 .exprience-area {
     width: 40%;
@@ -122,6 +127,7 @@ p.about-me {
     margin-left: 5%;
     margin-right: 5%;
     border-left: 5px solid teal;
+
 }
 
 .exprience-area {
